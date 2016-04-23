@@ -1,0 +1,28 @@
+name: Martin Maglia
+favicon: null
+layout_spectrum: 0.4566268832422793
+typography_spectrum: 0.08981964807026088
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.4582079635001719
+  lightness: 0.482073322404176
+  saturation: 0.8648025977890939
+  rhythmicContrast: 0.33003381825983524
+purpose: []
