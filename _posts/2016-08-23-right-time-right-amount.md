@@ -5,19 +5,21 @@ inNav: false
 inLanguage: null
 keywords: []
 description: 'RIGHT TIME RIGHT AMOUNT '
-datePublished: '2016-08-23T14:00:58.905Z'
-dateModified: '2016-08-23T14:00:28.058Z'
+datePublished: '2016-08-23T14:02:08.106Z'
+dateModified: '2016-08-23T14:02:06.274Z'
 title: ''
 author: []
 via: {}
+sourcePath: _posts/2016-08-23-right-time-right-amount.md
 authors: []
 publisher: {}
-starred: false
-sourcePath: _posts/2016-08-23-right-time-right-amount.md
+starred: true
 url: right-time-right-amount/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4be5e862-e0e2-4aeb-9cae-9fd612230320.png)
+
 RIGHT TIME RIGHT AMOUNT 
 
 Like in top sports! 
